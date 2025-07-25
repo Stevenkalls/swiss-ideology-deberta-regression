@@ -2,7 +2,7 @@
 The finetuned model used to predict economical and socio-cultural ideological scores of certain political texts. 
 
 仓库内包括了4个py文件，分别对应着回归模型搭建，数据预处理，训练与保存和调用4个流程。
-data.csv 是部分用于微调的语料，约7%
+data.csv 是部分用于微调的语料，约5%
 
 由于暑期时间紧促，暂时未写demo。
 有需要可自行使用示例语料训练调用。
